@@ -2,4 +2,17 @@
 body{ background-color: #eceefe; margin:0px; padding:0px; font: 16px/24px Arial, Tahoma, sans-serif; }
 div.mid{ width:1000px; margin:0 auto;}
 
+/*меню*/
+div.menu{background: #29336b; border: 1px solid #03052d; border-left:none; border-right: none; }
+div.menu form {margin-right: 100px; padding: 0; list-Style:none; text-align: right;}
+
+/*контент сайта*/
+div.bigblock{background:#cfd4fc; border: 1px solid #ccc; border-top:none; padding: 40px; }
+div.bigblock hr.line{ border:none; border-bottom: 1px dashed #ccc; margin: 20px 0;}
+div.block1{width: 240px; float: left;}
+div.blockdesign{background: #eceefe; border: 1px solid #ccc; padding:20px; border-radius: 5px;}
+div.blockdesign img{box-shadow: 1px 1px 5px #777;}
+div.block2{ float: right; width:640px;}
+div.clear{clear:both;}
+
 
