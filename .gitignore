@@ -1,3 +1,7 @@
 *.md
-.idea/*
-node_modules/*
+*.json
+*.js
+
+
+*.xml
+*.iml
